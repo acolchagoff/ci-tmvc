@@ -1,4 +1,6 @@
-build:
+web1:
+  name: spacetrak-web
   type: php
   version: 5.4
+  stability: production
   httpd_document_root: htdocs
