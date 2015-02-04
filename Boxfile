@@ -1,0 +1,4 @@
+build:
+  type: php
+  version: 5.4
+  httpd_document_root: htdocs
